@@ -1,2 +1,2 @@
-# numeric-base-converter
-Decimal to Binary | Binary to Decimal
+# Numeric Base Converter
+> Decimal to Binary | Binary to Decimal
